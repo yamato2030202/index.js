@@ -1,0 +1,14 @@
+{
+  "name": "index-js",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.16",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^9.6.0",
+    "axios": "^1.9.0"
+  }
+}
